@@ -1,0 +1,78 @@
+*{
+    font-family: 'Rubik', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+body{
+    min-height: 100vh;
+    background: linear-gradient(45deg,#0076ec,#42a1ff);
+}
+.container{
+    position: absolute;
+    background-color: #fff;
+    text-align: center;
+    width: 40%;
+    height: 46%;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 25px 25px 30px rgba(0, 0, 0, 0.15);
+}
+#gps-access{
+    color: #42a1ff;
+    font-size: 100px;
+    margin-top: 40px;
+    margin-bottom: 43px;
+}
+.place{
+    font-size: 26px;
+    font-weight: 300;
+    margin-bottom: 43px;
+}
+.location{
+    border: none;
+    background-color: #0076ec;
+    color: #fff;
+    font-size: 20px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.location:hover{
+    background-color: #00f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
